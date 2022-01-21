@@ -1,16 +1,43 @@
-### Hi there 👋
+# Привет, меня зовут Анастасия
 
-<!--
-**AnastasiaSh29/AnastasiaSh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Я Junior Frontend разработчик
 
-Here are some ideas to get you started:
+- 🌱 Изучаю React JS
+- 🌱 Изучаю TypeScript
+- 🌱 Решаю задачи на CodeWars
+- 🌱 Прокачиваю HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Языки и инструменты
+
+<img algin="left" alt="javascript" width="26px" src="./img/icons8-javascript-b.svg">
+<img algin="left" alt="react" width="26px" src="./img/icons8-react-native-b.svg">
+<img algin="left" alt="nodejs" width="26px" src="./img/icons8-nodejs-b.svg">
+<img algin="left" alt="-html" width="26px" src="./img/icons8-html-b.svg">
+<img algin="left" alt="css" width="26px" src="./img/icons8-css3-b.svg">
+<img algin="left" alt="figma" width="26px" src="./img/icons8-figma-b.svg">
+<img algin="left" alt="visualstudio" width="26px" src="./img/icons8-visual-studio-b.svg">
+
+---
+
+<br>
+
+## Смотрю в будущее
+
+Заинтересована в изучении:
+
+- Fullstack.
+- Mobile.
+- Алгоритов и структур данных.
+  <br>
+
+---
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaSh29&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaSh29&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnastasiaSh29&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
