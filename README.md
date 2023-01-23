@@ -19,3 +19,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaSh29&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnastasiaSh29&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://github.r2v.ch/codewars?user=AnastasiaSh29&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
