@@ -20,4 +20,4 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnastasiaSh29&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=AnastasiaSh29&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+[![codewars](https://www.codewars.com/users/ChallengerIT/badges/large)](https://www.codewars.com/users/ChallengerIT/badges/large)
